@@ -1,0 +1,28 @@
+img{
+    width: 300px;
+    height: auto;
+}
+
+div{
+display: flex;
+margin: auto;
+justify-content: center;
+}
+
+button{
+    background-color:lightpink;
+    color:rebeccapurple;
+    margin-top: 10px;
+    border-radius: 12px;
+    font-size: 15px;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+button:hover{
+    box-shadow: 0 5px 5px 0 purple, 0 4px 5px 0 purple;
+}
